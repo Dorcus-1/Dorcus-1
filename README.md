@@ -1,4 +1,4 @@
-## Hi there 👋
+## Salut 👋
 
 # Dorcus Mugisha
 
