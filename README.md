@@ -2,7 +2,7 @@
 
 # Dorcus Mugisha
 
-**Software Engineer @ Centrika | React, NestJS, PHP, Kotlin, PostgreSQL, NFC Integration**
+**Computer Science student| Python, C++, NestJS, PHP, Kotlin, PostgreSQL, NFC Integration**
 [LinkedIn](https://www.linkedin.com/in/mugisha-dorcus-509583230/)
 
 ---
