@@ -44,7 +44,7 @@ Software Engineer at **Centrika**
 ## 🛠 Skills & Tools
 
 * **Frontend**: TypeScript, Tailwind CSS, Next.js, Laravel
-* **Backend**: NestJS, PHP, Java
+* **Backend**: NestJS, PHP, Java,Python, c++/C
 * **Mobile**: Kotlin (Android), React Native
 * **Database**: PostgreSQL, MySQL, SQLite
 * **Integrations**: NFC, REST APIs, real-time data systems
